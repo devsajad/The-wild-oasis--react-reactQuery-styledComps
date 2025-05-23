@@ -1,6 +1,6 @@
 # The Wild Oasis
 
-The Wild Oasis is a modern web application designed to manage bookings, cabins, and user accounts for a luxury retreat. Built with React, it leverages modern libraries and tools to provide a seamless user experience.
+The Wild Oasis is a modern web application designed to manage bookings,cabins, and user accounts for a luxury retreat. Built with React, it leverages modern libraries and tools to provide a seamless user experience.
 
 ## Features
 
@@ -26,3 +26,4 @@ The Wild Oasis is a modern web application designed to manage bookings, cabins, 
    ```bash
    git clone https://github.com/your-repo/the-wild-oasis.git
    cd the-wild-oasis
+   ```
