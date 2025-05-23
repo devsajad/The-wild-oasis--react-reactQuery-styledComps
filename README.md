@@ -1,12 +1,28 @@
-# React + Vite
+# The Wild Oasis
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Wild Oasis is a modern web application designed to manage bookings, cabins, and user accounts for a luxury retreat. Built with React, it leverages modern libraries and tools to provide a seamless user experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Dashboard**: View key statistics, charts, and activity summaries.
+- **Bookings Management**: Create, update, and delete bookings with detailed information.
+- **Cabins Management**: Add, edit, and delete cabins with support for discounts and capacity.
+- **User Authentication**: Secure login, signup, and account management.
+- **Dark Mode**: Toggle between light and dark themes for better accessibility.
+- **Pagination and Filtering**: Efficiently browse and filter data across tables.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React, React Router, Styled Components
+- **State Management**: React Query
+- **Backend**: Supabase (Database and Authentication)
+- **Utilities**: Date-fns, React Hook Form
+- **Build Tool**: Vite
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo/the-wild-oasis.git
+   cd the-wild-oasis
